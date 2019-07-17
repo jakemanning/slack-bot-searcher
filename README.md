@@ -1,5 +1,7 @@
 # Slack Searcher
 
+Created in 2016
+
 This is a bot that allows you to search different services using slack commands
 
 ### Current services you can interact with
