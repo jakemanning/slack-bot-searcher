@@ -21,7 +21,7 @@
     "mongod": "^1.3.0",
     "mongodb": "^2.2.11",
     "mongoose": "^4.6.6",
-    "open": "^0.0.5",
+    "open": "^7.0.0",
     "request": "^2.76.0",
     "synchronize": "^2.0.0",
     "url": "^0.11.0",
