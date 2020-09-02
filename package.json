@@ -16,7 +16,7 @@
     "github-api": "^2.3.0",
     "github-api-node": "^0.11.2",
     "github-repositories": "^3.0.0",
-    "googleapis": "^14.1.0",
+    "googleapis": "^59.0.0",
     "httpdispatcher": "^1.0.0",
     "mongod": "^1.3.0",
     "mongodb": "^2.2.11",
